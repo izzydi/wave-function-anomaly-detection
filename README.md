@@ -1,5 +1,7 @@
 # Wave-Function Anomaly Detection
 
+[![R CI](https://github.com/izzydi/wave-function-anomaly-detection/actions/workflows/r-ci.yml/badge.svg)](https://github.com/izzydi/wave-function-anomaly-detection/actions/workflows/r-ci.yml)
+
 An applied scientific machine-learning project for high-dimensional wave-function data, combining **training-only preprocessing, H2O autoencoder representation learning and XGBoost classification**.
 
 ## Primary workflow
